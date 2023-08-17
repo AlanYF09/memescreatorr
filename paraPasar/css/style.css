@@ -1,0 +1,9 @@
+#imagen{
+    width:50px;
+    height: 60px;
+}
+#resultado{
+    width: 100%;
+    height: auto;
+    border-radius:0%
+}
